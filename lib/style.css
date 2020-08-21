@@ -1,0 +1,966 @@
+#cellA1 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  z-index: 1;
+}
+
+#cellA1Text1 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 55px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA1TextA {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 190px;
+  left: 13px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA2 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  left: 110px;
+  z-index: 1;
+}
+
+#cellA2Text2 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 155px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA3 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  left: 210px;
+}
+
+#cellA3Text3 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 255px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA4 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  left: 310px;
+}
+
+#cellA4Text4 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 355px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA5 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  left: 410px;
+}
+
+#cellA5Text5 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 455px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA6 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  left: 510px;
+}
+
+#cellA6Text6 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 555px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA7 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  left: 610px;
+}
+
+#cellA7Text7 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 655px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellA8 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  left: 710px;
+}
+
+#cellA8Text8 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 150px;
+  left: 755px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+ #cellA8TextA {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 190px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellB1 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  
+}
+
+#cellB1TextB {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 290px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellB2 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  left: 110px;
+}
+
+#cellB3 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  left: 210px;
+}
+
+#cellB4 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  left: 310px;
+}
+
+#cellB5 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  left: 410px;
+}
+
+#cellB6 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  left: 510px;
+}
+
+#cellB7 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+  left: 610px;
+}
+
+#cellB8 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+  left: 710px;
+}
+
+#cellB8TextB {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 290px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellC1 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC1TextC {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 390px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellC2 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC3 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC4 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC5 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC6 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC7 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC8 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellC8TextC {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 390px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellD1 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD1TextD {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 490px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellD2 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD3 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD4 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD5 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD6 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD7 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD8 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellD8TextD {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 490px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellE1 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE1TextE {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 590px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellE2 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE3 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE4 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE5 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE6 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE7 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE8 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellE8TextE {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 590px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellF1 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF1TextF {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 690px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellF2 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF3 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF4 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF5 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF6 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF7 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF8 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellF8TextF {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 690px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellG1 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG1TextG {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 790px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellG2 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG3 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG4 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG5 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG6 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG7 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG8 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellG8TextG {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 790px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH1 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH1TextH {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 890px;
+  left: 12px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH1Text1 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 55px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH2 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH2Text2 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 155px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH3 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH3Text3 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 255px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH4 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH4Text4 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 355px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH5 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH5Text5 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 455px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH6 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH6Text6 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 555px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH7 {
+  position: fixed;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH7Text7 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 655px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH8 {
+  position: fixed;
+  background-color: lightskyblue;
+  width: 100px;
+  height: 100px;
+}
+
+#cellH8TextH {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 890px;
+  left: 795px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#cellH8Text8 {
+  position: fixed;
+  width: 0px;
+  height: 0px;
+  top: 930px;
+  left: 755px;
+  z-index: 2;
+  color: rgb(153, 67, 26);
+}
+
+#die {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 135px;
+  left: 35px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto;
+  z-index: 3
+}
+
+#die2 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 35px;
+  left: 135px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto;
+  z-index: 3
+}
+
+#die3 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 35px;
+  left: 235px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto
+}
+
+#die4 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 35px;
+  left: 335px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto
+}
+
+#die5 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 35px;
+  left: 435px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto
+}
+
+#die6 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 35px;
+  left: 535px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto
+}
+
+#die7 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 35px;
+  left: 635px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto
+}
+
+#die8 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 35px;
+  left: 735px;
+  background: url("https://i.imgur.com/fYDxUdC.jpg");
+  background-size: contain;
+  pointer-events: auto
+}
+
+#die9 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 35px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none;
+  z-index: 3
+}
+
+#die10 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 135px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none;
+  z-index: 3
+}
+
+#die11 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 235px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none
+}
+
+#die12 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 335px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none
+}
+
+#die13 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 435px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none
+}
+
+#die14 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 535px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none
+}
+
+#die15 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 635px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none
+}
+
+#die16 {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 735px;
+  left: 735px;
+  background: url("https://i.imgur.com/D9vVVZi.jpg");
+  background-size: contain;
+  pointer-events: none
+}
+
+
+
